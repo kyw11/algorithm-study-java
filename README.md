@@ -22,7 +22,7 @@
 <td style="width: 8.66924%; text-align: center;">한재윤</td>
 </tr>
 <tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/26)</td>
+<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
 <td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/2577">숫자의 개수</td>
 <td style="width: 10.9948%; text-align: center;">배열</td>
 <td style="width: 9.13431%; text-align: center;">B2</td>
@@ -32,7 +32,7 @@
 <td style="width: 8.66924%; text-align: center;"></td>
 </tr>
 <tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/26)</td>
+<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
 <td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/1475">방 번호</td>
 <td style="width: 10.9948%; text-align: center;">배열</td>
 <td style="width: 9.13431%; text-align: center;">S5</td>
@@ -42,7 +42,7 @@
 <td style="width: 8.66924%; text-align: center;"></td>
 </tr>
 <tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/26)</td>
+<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
 <td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/3273">두 수의 합</td>
 <td style="width: 10.9948%; text-align: center;">배열</td>
 <td style="width: 9.13431%; text-align: center;">S3</td>

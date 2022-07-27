@@ -1,59 +1,24 @@
 # 자바 알고리즘 스터디
 
 ## 규칙
-- 스터디 일정: 주 2회 진행 (월요일 오후9시, 목요일 또는 금요일 오후9시-10시)
+- 스터디 일정: 주 2회 진행 
+  - 월요일 오후9시, 목요일 또는 금요일 오후9시-10시 시작
+  - 약 1시간~2시간 소요
 - 매주 2회차 스터디에서 문제를 정하고 해당 날짜에 디스코드에 공지
-- 파일 업로드 규칙 : BOJ문제번호.java
-- 커밋메세지 규칙 : Solve: 문제플랫폼-문제번호 EX)BOJ-문제번호, SWEA-문제번호
-- 문제를 풀고나서 workbook의 문제집에서 체크표시 할 것
+- 파일 업로드 규칙 : week_N주차(폴더) / BOJ문제번호.java (파일)
+- 커밋메세지 규칙 : Solve: 문제플랫폼-문제번호 EX)Solve: BOJ-2577, Solve: SWEA-1475
+- 문제 풀이가 완료되었을 시 README.md, workbook폴더 md에 체크표시 할 것
+<br><br>
 
 ## 스터디 일정
 
-<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
-<tbody>
-<tr>
-<td style="width: 12.739%; text-align: center;">날짜</td>
-<td style="width: 22.8553%; text-align: center;">문제</td>
-<td style="width: 10.9948%; text-align: center;">유형</td>
-<td style="width: 9.13431%; text-align: center;">난이도</td>
-<td style="width: 7.73899%; text-align: center;">강영원</td>
-<td style="width: 8.90191%; text-align: center;">김명준</td>
-<td style="width: 9.36686%; text-align: center;">김성태</td>
-<td style="width: 8.66924%; text-align: center;">한재윤</td>
-</tr>
-<tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
-<td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/2577">숫자의 개수</td>
-<td style="width: 10.9948%; text-align: center;">배열</td>
-<td style="width: 9.13431%; text-align: center;">B2</td>
-<td style="width: 7.73899%; text-align: center;"></td>
-<td style="width: 8.90191%; text-align: center;"></td>
-<td style="width: 9.36686%; text-align: center;"></td>
-<td style="width: 8.66924%; text-align: center;"></td>
-</tr>
-<tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
-<td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/1475">방 번호</td>
-<td style="width: 10.9948%; text-align: center;">배열</td>
-<td style="width: 9.13431%; text-align: center;">S5</td>
-<td style="width: 7.73899%; text-align: center;"></td>
-<td style="width: 8.90191%; text-align: center;"></td>
-<td style="width: 9.36686%; text-align: center;"></td>
-<td style="width: 8.66924%; text-align: center;"></td>
-</tr>
-<tr>
-<td style="width: 12.739%; text-align: center;">1주차(07/28)</td>
-<td style="width: 22.8553%; text-align: center;"><a href="https://www.acmicpc.net/problem/3273">두 수의 합</td>
-<td style="width: 10.9948%; text-align: center;">배열</td>
-<td style="width: 9.13431%; text-align: center;">S3</td>
-<td style="width: 7.73899%; text-align: center;"></td>
-<td style="width: 8.90191%; text-align: center;"></td>
-<td style="width: 9.36686%; text-align: center;"></td>
-<td style="width: 8.66924%; text-align: center;"></td>
-</tr>
-</tbody>
-</table>
+| 날짜 | 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1주차(07/28) | [숫자의 개수](https://www.acmicpc.net/problem/2577) | 배열 | B2 |  |  |  |  |
+| 1주차(07/28) | [방 번호](https://www.acmicpc.net/problem/1475) | 배열 | S5 |  |  |  |  |
+| 1주차(07/28) | [두 수의 합](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  |  |  |  |
 
+<br><br>
 
 ## 바킹독 알고리즘 문제집
 

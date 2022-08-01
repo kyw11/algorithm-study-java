@@ -17,9 +17,9 @@
 | 1주차(07/28) | [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 |  | ✔ |  | ✔ |
 | 1주차(07/28) | [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 |  | ✔ |  | ✔ |
 | 1주차(07/28) | [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ |  | ✔ |
-| 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 |   |   |   |   |
-| 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 |   |   |   |   |
-| 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  |   |   |   |
+| 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ |   |   |
+| 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |   |   |
+| 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  | ✔ |   |   |
 
 
 

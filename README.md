@@ -7,19 +7,19 @@
 - 매주 2회차 스터디에서 문제를 정하고 해당 날짜에 디스코드에 공지
 - 파일 업로드 규칙 : week_N주차(폴더) / BOJ문제번호.java (파일)
 - 커밋메세지 규칙 : Solve: 문제플랫폼-문제번호 EX)Solve: BOJ-2577, Solve: SWEA-1475
-- 문제 풀이가 완료되었을 시 README.md, workbook폴더 md에 체크표시 할 것
+- 문제 풀이가 완료되었을 시 README.md에 체크표시 할 것
 <br><br>
 
 ## 스터디 일정
 
 | 날짜 | 문제 | 유형 | 난이도 | 강영원 | 김명준 | 김성태 | 한재윤 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1주차(07/28) | [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 |  | ✔ |  | ✔ |
-| 1주차(07/28) | [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 |  | ✔ |  | ✔ |
-| 1주차(07/28) | [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ |  | ✔ |
-| 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ |   |   |
-| 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |   |   |
-| 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  | ✔ |   |   |
+| 1주차(07/28) | [숫자의 개수 (2577)](https://www.acmicpc.net/problem/2577) | 배열 | B2 | ✔ | ✔ | ✔ | ✔ |
+| 1주차(07/28) | [방 번호 (1475)](https://www.acmicpc.net/problem/1475) | 배열 | S5 | ✔ | ✔ | ✔ | ✔ |
+| 1주차(07/28) | [두 수의 합 (3273)](https://www.acmicpc.net/problem/3273) | 배열 | S3 |  | ✔ | ✔ | ✔ |
+| 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ | ✔  | ✔  |
+| 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |  ✔ |   |
+| 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  | ✔ | ✔  | ✔  |
 
 
 

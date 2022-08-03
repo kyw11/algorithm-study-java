@@ -20,8 +20,8 @@
 | 2주차(08/02) | [카드2 (2164)](https://www.acmicpc.net/problem/2164) | 큐 | S4 | ✔  | ✔ | ✔  | ✔ |
 | 2주차(08/02) | [AC (5430)](https://www.acmicpc.net/problem/5430) | 덱 | G5 | ✔  | ✔ |  ✔ | ✔  |
 | 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  | ✔ | ✔  | ✔  |
-| 2주차(08/04) | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 |   |   |   |   |
-| 2주차(08/04) | [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 |   |   |   |   |
+| 2주차(08/04) | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 |   | ✔ |   |   |
+| 2주차(08/04) | [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 |   | ✔ |   |   |
 
 
 <br><br>

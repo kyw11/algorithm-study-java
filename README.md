@@ -22,10 +22,10 @@
 | 2주차(08/02) | [스택 수열 (1874)](https://www.acmicpc.net/problem/1874) | 스택 | S2 |  | ✔ | ✔  | ✔  |
 | 2주차(08/04) | [쇠막대기 (10799)](https://www.acmicpc.net/problem/10799) | 스택의 활용 | S3 |   | ✔ | ✔  | ✔  |
 | 2주차(08/04) | [최소 힙 (1927)](https://www.acmicpc.net/problem/1927 ) | 우선순위 큐 | S2 | | ✔ | ✔ | ✔ |
-| 3주차(08/09) | [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |   |  |   |   |
-| 3주차(08/09) | [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   |  |   |   |
-| 3주차(08/09) | [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   |  |   |   |
-| 3주차(08/09) | [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   |  |   |   |
+| 3주차(08/09) | [직사각형과 점 (6853)](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&problemLevel=4&problemLevel=5&contestProbId=AWhT_2HKQNADFAW_&categoryId=AWhT_2HKQNADFAW_&categoryType=CODE&problemTitle=6853&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=5&pageSize=10&pageIndex=1&problemLevel=3%2C4%2C5&&&&&&&&&) | 구현 | D3 |   | ✔ |   |   |
+| 3주차(08/09) | [요세푸스 문제 (1158)](https://www.acmicpc.net/problem/1158) | 연결리스트 | S4 |   | ✔ |   |   |
+| 3주차(08/09) | [트리 순회 (1991)](https://www.acmicpc.net/problem/1991) | 트리 | S1 |   | ✔ |   |   |
+| 3주차(08/09) | [N과 M (12) (15666)](https://www.acmicpc.net/problem/15666) | 순열, 조합 | S2 |   | ✔ |   |   |
 
 
 <br><br>
